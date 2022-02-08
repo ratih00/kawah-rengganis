@@ -8,7 +8,7 @@ body{
 
 .title {
     font-family: 'Quintessential', cursive;
-    margin-bottom: 20px;
+    margin-bottom: 35px;
 }
 
 .bold {
@@ -166,7 +166,7 @@ p{
 }
 
 .slider_area .single_slider .slider_text p{
-    font-size:24px;font-weight:400;color:#ffffff;margin-top:0
+    font-size:35px;font-weight:400;color:#ffffff;margin-top:0
 }
 
 .about_area{
